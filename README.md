@@ -1,5 +1,7 @@
 # Casting Defect Detection End-to-End
 
+![](./final_output.jpg)
+
 This project implements an automated computer vision pipeline to detect manufacturing defects (specifically **blowholes**) in metal casting images. It utilizes a pre-trained YOLO model exported to **ONNX** format for high-performance inference and is containerized using **Docker** for consistent deployment.
 
 ## 📌 Project Overview
